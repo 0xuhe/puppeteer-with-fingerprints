@@ -52,7 +52,7 @@
     "src"
   ],
   "dependencies": {
-    "browser-with-fingerprints": "2.3.3"
+    "browser-with-fingerprints": "git+https://github.com/0xuhe/browser-with-fingerprints.git"
   },
   "devDependencies": {
     "@cheshire-caat/prettier-config": "^1.0.0",
